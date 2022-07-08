@@ -1,0 +1,32 @@
+
+
+body {
+    background-color: #a9f0d1;
+}
+
+
+.container  {
+   background-image: url(./img/bg.jpg);
+   margin-top: 20px;
+
+}
+
+.card {
+    width: 18rem;
+    margin: auto;
+    
+}
+
+ h1 {
+    padding: 40px;
+}
+
+h2 {
+    padding-left: 596px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+a.btn.btn-primary  {
+    width: 254px;
+}

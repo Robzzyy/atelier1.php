@@ -1,0 +1,13 @@
+body {
+    background-color: #a9f0d1;
+}
+
+
+.container  {
+   background-image: url(./img/bg.jpg);
+   margin-top: 20px;
+
+}
+.card {
+    margin-left: 0;
+}
